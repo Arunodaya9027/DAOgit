@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Web3 from "web3";
-import DAO from "./contracts/dao.sol";
+import DAO from "./contracts/DAO.json";
 import "./App.css";
 import Investors from "./components/Investors/Investors";
 import Manager from "./components/Manager/Manager";
